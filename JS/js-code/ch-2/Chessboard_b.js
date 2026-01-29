@@ -1,4 +1,3 @@
-const { hash } = require("crypto");
 const readline = require("readline");
 
 const r1 = readline.createInterface({
